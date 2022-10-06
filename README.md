@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Development, Data Science and Machine Learning 
 - 🌱 I’m currently learning about APIs!
 - 💞️ I’m looking for intenrships for Summer 2023!
-- 📫 How to reach me @ rhythmbindal@gmail.com
+- 📫 Reach me @ rhythmbindal@gmail.com
 - LinkedIn- https://www.linkedin.com/in/rhythmbindal/
 
 <!---
