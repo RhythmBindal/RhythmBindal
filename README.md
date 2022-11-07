@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RhythmBindal
 - 👀 I’m interested in Software Development, Data Science and Machine Learning 
 - 🌱 I’m currently learning about APIs!
-- 💞️ I’m looking for intenrships for Summer 2023!
+- 💞️ I’m looking for internships for Summer 2023!
 - 📫 Reach me @ rhythmbindal@gmail.com
 - LinkedIn- https://www.linkedin.com/in/rhythmbindal/
 
