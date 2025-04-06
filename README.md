@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @RhythmBindal
 - 👀 I’m interested in Software Development, Data Science and Machine Learning 
-- 🌱 I’m currently open for PPOs
 - 📫 Reach me @ rhythmbindal@gmail.com
 - LinkedIn- https://www.linkedin.com/in/rhythmbindal/
 
